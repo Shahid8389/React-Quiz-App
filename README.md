@@ -16,7 +16,7 @@ A lightweight and interactive quiz app built using **Vite** and **React**.
 1. Clone the repository:
 ```bash
 # Clone the repository
-git clone https://github.com/Shahid8389/simple-quiz-app.git
+git clone https://github.com/Shahid8389/React-Quiz-App.git
 
 # Navigate to the project directory
 cd React-Quiz-App
